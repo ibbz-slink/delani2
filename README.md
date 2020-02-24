@@ -2,7 +2,7 @@
 #### {CREATE WEBSITES WITH DELANI.},
 #### By IBBZ SLINK
 ## Description
-**design**
+
 our design practically offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 throughout your project out designers create and impelement visual design and workflows solicits user feedback and work with you to make sure what gets built is what is needed.
 **development**
